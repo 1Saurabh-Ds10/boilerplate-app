@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "simple server for REST APIs",
+  "main": "index.js",
+  "author": "Saurabh",
+  "license": "MIT"
+}
